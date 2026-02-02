@@ -45,6 +45,11 @@ This dataset provides a **credible, industry-recognized view** of competitive ga
 
 ---
 
+### 🌍 Global Esports Overview
+![Global Esports Overview](https://github.com/krishnabisoi/Tableau_Global_Esports_Performance/blob/main/visuals/Global_Esports_Performance_Dashboard.png)
+
+---
+
 ## 📈 Key Insights & Findings
 
 ### 🌍 Global Esports Industry Snapshot
@@ -72,6 +77,9 @@ These headline numbers confirm esports as a **large-scale global industry**, not
 Financial dominance ≠ player popularity.  
 Some games generate massive prize pools with **fewer elite players**, while others attract **large audiences with lower per-player payouts**.
 
+### 🏆 Top Games & Earnings
+![Top Games Earnings](https://github.com/krishnabisoi/Tableau_Global_Esports_Performance/blob/main/visuals/01_Top_Games_Earnings.png)
+
 ---
 
 ### 🎯 Prize Money Distribution by Genre
@@ -84,6 +92,9 @@ Some games generate massive prize pools with **fewer elite players**, while othe
 📌 **Insight:**  
 MOBA and FPS genres represent the **financial backbone** of competitive esports.
 
+### 🎯 Genre-wise Prize Distribution
+![Genre Distribution](https://github.com/krishnabisoi/Tableau_Global_Esports_Performance/blob/main/visuals/02_Genre_Wise_Earnings.png)
+
 ---
 
 ### 🏟️ Offline vs Online Tournament Economics
@@ -92,6 +103,9 @@ MOBA and FPS genres represent the **financial backbone** of competitive esports.
 
 📌 **Insight:**  
 Large-scale offline tournaments dominate prize money, driven by **prestige, sponsorships, and global audiences**.
+
+### 🏟️ Offline vs Online Earnings
+![Offline vs Online](https://github.com/krishnabisoi/Tableau_Global_Esports_Performance/blob/main/visuals/03_Online_vs_Offline_Earnings.png)
 
 ---
 
@@ -109,22 +123,6 @@ Large-scale offline tournaments dominate prize money, driven by **prestige, spon
 
 - **Advance Analytics Strategy:**  
   Introduce **time-series analysis** and **normalized metrics (earnings per player)** to support predictive and investment-focused decision-making.
-
----
-
-## 🖥️ Tableau Dashboard Preview
-
-### 🌍 Global Esports Overview
-![Global Esports Overview](https://github.com/krishnabisoi/Tableau_Global_Esports_Performance/blob/main/visuals/Global_Esports_Performance_Dashboard.png)
-
-### 🏆 Top Games & Earnings
-![Top Games Earnings](https://github.com/krishnabisoi/Tableau_Global_Esports_Performance/blob/main/visuals/01_Top_Games_Earnings.png)
-
-### 🎯 Genre-wise Prize Distribution
-![Genre Distribution](https://github.com/krishnabisoi/Tableau_Global_Esports_Performance/blob/main/visuals/02_Genre_Wise_Earnings.png)
-
-### 🏟️ Offline vs Online Earnings
-![Offline vs Online](https://github.com/krishnabisoi/Tableau_Global_Esports_Performance/blob/main/visuals/03_Online_vs_Offline_Earnings.png)
 
 ---
 
